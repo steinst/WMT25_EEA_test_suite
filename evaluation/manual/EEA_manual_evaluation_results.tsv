@@ -1,35 +1,3 @@
-system	terms_correct	total_terms	sentences_correct	term_accuracy
-ONLINE-G.txt	74	93	32	79.56989247
-Erlendur.txt	71	93	32	76.34408602
-Gemini-2.5-Pro.txt	67	93	31	72.04301075
-TranssionTranslate.txt	66	93	30	70.96774194
-ONLINE-B.txt	63	93	27	67.74193548
-Claude-4.txt	56	93	23	60.21505376
-Shy.txt	56	93	22	60.21505376
-hybrid.txt	55	93	24	59.13978495
-TowerPlus-9B.txt	55	93	22	59.13978495
-GPT-4.1.txt	53	93	22	56.98924731
-SalamandraTA.txt	52	93	21	55.91397849
-IR-MultiagentMT.txt	41	93	15	44.08602151
-TowerPlus-72B.txt	41	93	13	44.08602151
-NLLB.txt	40	93	13	43.01075269
-DeepSeek-V3.txt	38	93	10	40.86021505
-AMI.txt	35	93	13	37.6344086
-CommandA-MT.txt	35	93	11	37.6344086
-Llama-4-Maverick.txt	33	93	9	35.48387097
-Gemma-3-27B.txt	29	93	7	31.1827957
-Mistral-Medium.txt	28	93	5	30.10752688
-GemTrans.txt	25	93	8	26.88172043
-Gemma-3-12B.txt	24	93	8	25.80645161
-UvA-MT.txt	24	93	7	25.80645161
-IRB-MT.txt	23	93	7	24.7311828
-Qwen3-235B.txt	15	93	2	16.12903226
-CommandA.txt	12	93	1	12.90322581
-Llama-3.1-8B.txt	5	93	2	5.376344086
-AyaExpanse-32B.txt	2	93	0	2.150537634
-AyaExpanse-8B.txt	1	93	0	1.075268817
-CommandR7B.txt	1	93	0	1.075268817
-EuroLLM-22B.txt	1	93	0	1.075268817
-EuroLLM-9B.txt	0	93	0	0
-Mistral-7B.txt	0	93	0	0
-Qwen2.5-7B.txt	0	93	0	0
+version https://git-lfs.github.com/spec/v1
+oid sha256:32355ff244a045da12394fc2fec9488db6b715273f90969419391d8439cff666
+size 1231
